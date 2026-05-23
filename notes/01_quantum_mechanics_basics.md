@@ -1,9 +1,7 @@
 # 第一性原理计算方法
 
 > **课程**：计算材料学 · 第 2 讲  
-> **授课**：朱升财（中山大学）  
-> **笔记环境**：GitHub 原生 Markdown  
-> **说明**：公式以文字+伪 LaTeX 描述，适合 GitHub 直接阅读
+
 
 ---
 
@@ -581,7 +579,4 @@ CI / MP2 / CCSD / DFT ...
 - Kolos & Roothaan, Rev. Mod. Phys. 32, 219 (1960) — H₂ 精确波函数
 - Atkins, *Physical Chemistry*, OUP (背景知识)
 
----
 
-*笔记生成：基于中山大学计算材料学第 2 讲讲义（授课：朱升财）*  
-*适用于 GitHub 原生 Markdown 渲染，数学公式以纯文本/代码块形式展示*
