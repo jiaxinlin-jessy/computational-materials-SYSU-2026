@@ -1,6 +1,6 @@
 # 第一性原理计算方法：密度泛函理论 (DFT)
 
-> 计算材料学 · 第3讲 · 中山大学 · 朱升财
+> 计算材料学 · 第3讲 
 >
 > 本笔记覆盖：Thomas-Fermi 理论 → Hohenberg-Kohn 定理 → Kohn-Sham 方程 → LDA/GGA 近似
 
@@ -576,8 +576,3 @@ E_xc^GGA[ρ] = ∫ f(ρ(r), ∇ρ(r)) dr
 - P. Hohenberg & W. Kohn, *Phys. Rev.* **136**, B864 (1964)
 - J. P. Perdew et al., *Phys. Rev. Lett.* **77**, 3865 (1996)（PBE）
 - R. G. Parr & W. Yang, *Density-Functional Theory of Atoms and Molecules*, Oxford (1989)
-- 朱升财，计算材料学讲义，中山大学，2024-2025
-
----
-
-*笔记生成日期：2025 · 计算材料学第3讲*
