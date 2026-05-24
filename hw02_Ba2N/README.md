@@ -26,7 +26,7 @@
 
 | Band & DOS | ELF | PCD |
 |:---:|:---:|:---:|
-| ![](figures/band_dos.png) | ![](figures/elf.png) | ![](figures/pcd.png) |
+| ![](figures/band_dos_final.png) | ![](figures/elf.png) | ![](figures/pcd.png) |
 
 ## 计算流程
 01_relax → 02_scf → 03_band / 04_dos / 05_elf / 06_pcd
