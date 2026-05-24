@@ -54,7 +54,7 @@ computational-materials-SYSU-2026/
 
 | 编号 | 内容 | 状态 |
 |------|------|------|
-| [HW01](./homework/hw01/) | 氢分子的精确电子波函数 | ✅ 已完成 |
+| [HW01](./homework/hw01/) | 氢分子的精确电子波函数-Kolos & Roothaan (1960) 论文翻译与批注 | ✅ 已完成 |
 | [HW02](./homework/hw02_Ba2N/) | Ba₂N 第一性原理计算（结构优化、能带、DOS、ELF、PCD） | ✅ 已完成 |
 | [HW03] | -- | waiting |
 
