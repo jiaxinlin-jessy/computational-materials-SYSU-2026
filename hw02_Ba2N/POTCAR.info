@@ -1,0 +1,9 @@
+# POTCAR Information
+# POTCAR itself is not included due to VASP license restrictions.
+
+Functional: PBE (GGA)
+Software:   VASP 5.x
+
+Elements:
+  Ba: PAW_PBE Ba_sv 06Sep2000
+  N:  PAW_PBE N    08Apr2002
